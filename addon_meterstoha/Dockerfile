@@ -17,6 +17,7 @@ SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 RUN \
     apk add --no-cache \
         git \
+        nano \
         py-urllib3 \
         py3-colorama \
         xvfb \
