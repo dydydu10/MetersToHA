@@ -3,7 +3,7 @@ name: MetersToHA
 version: dev
 slug: meterstoha
 description: MetersToHA add-on for Home Assistant
-url: https://github.com/mdeweerd/MetersToHA
+url: https://github.com/dydydu10/MetersToHA
 homeassistant_api: true
 map:
   - addon_config:rw
